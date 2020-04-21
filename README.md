@@ -12,9 +12,11 @@
 
 • Used Tableau to visualize the card swipes trend by tenant.
 
-![Tableau](Images/hourlydata.png)
+![Tableau](Images/HourlyData_Crop.png)
 
 • We did data transformation to prepare for machine learning. 
+
+![Ingestion](Images/dataingestion.png)
 
 ![Transformation](Images/data_transformation.png)
 
